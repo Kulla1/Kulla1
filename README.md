@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><a href="https://github.com/Pulithasethnindu"><img src="https://github.com/Pulithasethnindu/Pulithasethnindu/blob/main/Media/gif3.gif" width="500"></a></p>
+<p align="center"><a href="https://github.com/Kulinduadhikari"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnovocom.top%2Fview%2Fba2116-anime-girl-saying-bye%2F&psig=AOvVaw23v2i0rm_CaluHfbBEMvLb&ust=1628148460335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjIlevrlvICFQAAAAAdAAAAABAD" width="500"></a></p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/Pulithasethnindu/count.svg" /><br>Profile Viewers</div></p>
