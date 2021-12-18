@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 Currently Working On...</b><h2>
 
 <p align="left">
-  <a href="https://github.com/Pulithasethnindu/Pulithasethnindu"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pulithasethnindu&repo=Pulithasethnindu&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+  <a href="https://github.com/Kulla1/Kulla1"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kulla1&repo=Kulla1&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
 </p>
 
 ***
